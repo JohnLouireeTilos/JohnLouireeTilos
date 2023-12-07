@@ -8,7 +8,7 @@ I am John Louiree Tilos, a passionate individual with a flair for coding and exp
 
 - **BS Information Technology**
   New Era University
-  2022-Present
+  2022 - Present
 
 ## Certifications
 
@@ -25,5 +25,5 @@ I am John Louiree Tilos, a passionate individual with a flair for coding and exp
 
 ## Connect with Me
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/john-louiree-tilos-3212a82a0/)
+- **LinkedIn**: [John Louiree Tilos](https://www.linkedin.com/in/john-louiree-tilos-3212a82a0/)
 - **Email**: louitilos@gmail.com
