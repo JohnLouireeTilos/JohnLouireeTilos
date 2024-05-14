@@ -16,6 +16,7 @@ I am John Louiree Tilos, a passionate individual with a flair for coding and exp
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9CBAED8C96555ED3E721E152F12456883774740A7A64A52C296EB08B839B902F)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=58517D4C517C083993841E5496ADA0FD8FE853F2C674CD4FB6FBC50103197B5C)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95e101d1d8194edbb2eff2bb50fa2fa1)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/7d9925c423ce498fb34daf7e38a4a0e7)
 
 ## Skill Sets
 
